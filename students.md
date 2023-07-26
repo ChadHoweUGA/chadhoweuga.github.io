@@ -3,11 +3,11 @@ layout: page
 title: Students
 ---
 
-{: .box-success
+{: .box-success}
 📢 <span style="color:red">NEWS</span> 📢
 - **Dr. Andrew Bray** has accepted the position of Visiting Assistant Professor in the [Department of Linguistics at the University of Rochester](http://www.sas.rochester.edu/lin/). Congratulations, Andrew!
 - **Camila Lívio** successfully defended her dissertation on May 17, 2023. Her dissertation, entitled "Digital Approaches to Intensification in Portuguese & Spanish”, explores the use and perception of words like *muy*, *muito*, *bem*, and *super* (i.e. intensifiers) in data extracted from Amazon reviews. Camila has now started her new position as Scholarly Communications Librarian at the University of Georgia Library. Parabéns, Camila!
-- ROML Grad and all around brilliant fellow, **Dr. Lamar Graham**, was recently promoted to Associate Professor (with tenure) in the [Department of Romance Studies at the University of North Carolina Chapel Hill](https://sites.google.com/site/lamaragrahamphd). ¡Enhorabuena, Lamar!}
+- ROML Grad and all around brilliant fellow, **Dr. Lamar Graham**, was recently promoted to Associate Professor (with tenure) in the [Department of Romance Studies at the University of North Carolina Chapel Hill](https://sites.google.com/site/lamaragrahamphd). ¡Enhorabuena, Lamar!
 
 ***
 
