@@ -11,6 +11,8 @@ title: Work with Students
 >
 > ROML Grad and all around brilliant fellow, **Dr. Lamar Graham**, was recently promoted to Associate Professor (with tenure) in the [Department of Romance Studies at the University of North Carolina Chapel Hill](https://sites.google.com/site/lamaragrahamphd). ¡Enhorabuena, Lamar!
 
+***
+
 If you’re interested in working with me, please take a look at [my current (and updated!) Advisee Guide](AdviseeGuide.md). This document is intended to provide some useful guidance in the process of completing your graduate requirements. It’s also a bit out of date so please contact me if you have any questions. For more information about UGA Graduate School deadlines, consult the [Grad School Calendar](http://grad.uga.edu/index.php/current-students/important-dates-deadlines/). Students should also familizarize themselves with the [Romance Languages Graduate Handbook](http://rom.uga.edu/graduate-handbook) and the [Linguistics Graduate Handbook](https://ling.franklin.uga.edu/sites/default/files/inline-files/Graduate%20Handbook%20Revised%20July%202019.pdf).
 
 **NOTE:** Before you consider asking me to work with you as a major professor, please keep a few things in mind. First, you need to have taken at least one course with me in order for me to consider serving as your major professor. Second, unless you are working on something related to my current research, I will not be able to serve as your major professor.
