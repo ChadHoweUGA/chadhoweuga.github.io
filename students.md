@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work with Students
+title: Students
 ---
 
 ## 📢📢📢 <span style="color:red">NEWS</span> 📢📢📢
