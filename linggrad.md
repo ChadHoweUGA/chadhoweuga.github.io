@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Graduate Coordinator, Department of Liguistics"
+title: Graduate Coordinator
+subtitle: Department of Linguistics
 ---
 
 I serve as [Graduate Coordinator](https://www.linguistics.uga.edu/graduate-program) in the Department of Linguistics. Current students should feel free to contact me regarding advisement and any other program-related questions. Prospective students are encouraged to contact me as well with questions related to UGA's graduate offerings in linguistics. Below are a few helpful links for students (current and prospective):
