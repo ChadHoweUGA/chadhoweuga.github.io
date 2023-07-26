@@ -25,7 +25,8 @@ Current students are encouraged to consult the [RESOURCES page of my website](re
 * I am currently the [Graduate Coordinator in the Department of Linguistics](linggrad.md). **Potential applicants** should contact me with any questions regarding the application process. **Current students** should reach out with questions regarding their programs of study and other academic inquiries.
 * Since 2021, I have worked with the UGA Franklin College of Arts and Sciences as part of the [Diversity Leadership group](https://franklin.uga.edu/directory/diversity-leadership). More information regarding this role is [available here](diversityleadership.md).
 * I serve as the [Review Editor](revieweditor.md) for the journal [Studies in Hispanic and Lusophone Linguistics](https://www.degruyter.com/view/journals/shll/shll-overview.xml?language=en&tab_body=editorialContent-75079).
-* 
+  
+
 # Current Schedule (Fall 2024)
 
 Course | Day/Time |
