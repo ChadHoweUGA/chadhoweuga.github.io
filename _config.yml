@@ -21,13 +21,13 @@ author: Chad Howe
 
 navbar-links:
 #  About Me: "aboutme"
+  Home: "https://chadhoweuga.github.io"
   Research: "research"
   Students: "students"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://chadhoweuga.github.io"
-
+  
 ################
 # --- Logo --- #
 ################
