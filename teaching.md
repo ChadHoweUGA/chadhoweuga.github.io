@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Teaching
-subtitle: Information for and about students and advisees
+title: Teaching and Advising
 ---
 
 ## 📢 <span style="color:red">STUDENT NEWS</span> 📢
