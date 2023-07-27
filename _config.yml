@@ -24,9 +24,9 @@ navbar-links:
   CV: "HoweCV.pdf"
   Research: "research"
   Teaching: "teaching"
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://chadhowe.github.io"
 
 ################
