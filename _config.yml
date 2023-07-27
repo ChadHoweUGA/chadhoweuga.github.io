@@ -24,9 +24,10 @@ navbar-links:
   CV: "HoweCV.pdf"
   Research: "research"
   Students: "students"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Contact: "contact"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
   
 ################
 # --- Logo --- #
