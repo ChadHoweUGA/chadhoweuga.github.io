@@ -37,4 +37,5 @@ GradFIRST (GRSC 7001) | F (12:40-1:30) |
 Office Hours (Gilbert 218) | W (10:00-12:00) |
 ---------------------------------------------|------------------|
 
-## Latest blog posts
+{: .box-note}
+**⬇️Latest blog posts⬇️** 
