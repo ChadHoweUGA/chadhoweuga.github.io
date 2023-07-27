@@ -76,7 +76,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
+  mastodon: instance.url/@chowe
   ORCID: 0000-0002-3044-1443
   google-scholar: https://scholar.google.com/citations?user=XOSu0dEAAAAJ&hl=en&oi=ao
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
@@ -95,8 +95,8 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  linkedin: true
+# facebook: true
+# linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
