@@ -126,7 +126,7 @@ navbar-var-length: false
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
 
-paginate_path: "/blog/page:num/"
+paginate_path: "/blog/index.md/"
 
 ######################################
 # --- Colours / background image --- #
