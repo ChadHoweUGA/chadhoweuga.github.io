@@ -76,7 +76,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-  mastodon: instance.url/@chowe
+  mastodon: mastodon.social/@chowe
   ORCID: 0000-0002-3044-1443
   google-scholar: https://scholar.google.com/citations?user=XOSu0dEAAAAJ&hl=en&oi=ao
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
