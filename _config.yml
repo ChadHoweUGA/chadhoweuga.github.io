@@ -10,33 +10,29 @@
 ############################
 
 # Name of website
-title: Chad Howe, Ph.D. 😃
+title: My Website
 
 # Your name to show in the footer
-author: Chad Howe
+author: Some Person
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-#  About Me: "aboutme"
-  CV: "HoweCV.pdf"
-  Research: "research"
-  Students: "students"
-  Contact: "contact"
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
-  
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+
 ################
 # --- Logo --- #
 ################
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
- avatar: "/assets/img/HoweChadpic1.png"
-# avatar: "/assets/img/HoweChadpic2.png"
+avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -54,13 +50,13 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "chowe@uga.edu"
+  email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
-  github: ChadHoweUGA
-#  twitter: ChoweAthens
-#  patreon: DeanAttali
-#  youtube: c/daattali
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
+  patreon: DeanAttali
+  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -76,8 +72,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: 0000-0002-3044-1443
-  google-scholar: https://scholar.google.com/citations?user=XOSu0dEAAAAJ&hl=en&oi=ao
+#  ORCID: your ORCID ID
+#  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -94,13 +90,13 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
-  linkedin: false
+  facebook: true
+  linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "chadhoweuga.github.io"
+url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -297,4 +293,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
