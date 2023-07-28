@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Contact Information"
+title: "Contact"
 ---
 
 ## Current Schedule (Fall 2023)
