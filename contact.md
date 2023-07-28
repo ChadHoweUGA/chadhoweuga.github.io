@@ -15,12 +15,14 @@ Office Hours (Gilbert 218) | W (10:00-12:00) |
 
 ## Contact Information
 
+#### Mailing Address
 Department of Linguistics<br>
 University of Georgia<br>
 218 Gilbert Hall<br>
 Athens, GA 30602-1815<br>
 USA
 
+#### Other
 - **Email:** chowe AT uga.edu
 - **Tlf:** 706-542-1075 (ROML)/706-542-5099 (LING)
 - **Fax:** 706-542-3287 (LING)
