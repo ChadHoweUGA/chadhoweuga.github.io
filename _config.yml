@@ -25,6 +25,7 @@ navbar-links:
   Research: "research"
   Teaching: "teaching"
   Blog: "blog"
+  Contact: "contact"
 #  Test:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
