@@ -3,10 +3,17 @@ layout: page
 title: "Contact Information"
 ---
 
-<!--
-Still not working
-![This is me.](images/HoweChadpic1.jpg | width=100)
--->
+## Current Schedule (Fall 2024)
+
+| Course | Day/Time |
+| :---------------------------------------------|:------------------|
+Text and Corpus Linguistics (LING 4886/6886) | MWF (9:10-10:00) |
+FYOS 1001 | M (11:30-12:20) |
+GradFIRST (GRSC 7001) | F (12:40-1:30) |
+Office Hours (Gilbert 218) | W (10:00-12:00) |
+---------------------------------------------|------------------|
+
+## Contact Information
 
 Department of Linguistics<br>
 University of Georgia<br>
