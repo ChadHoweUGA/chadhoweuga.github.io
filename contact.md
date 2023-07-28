@@ -3,7 +3,7 @@ layout: page
 title: "Contact Information"
 ---
 
-## Current Schedule (Fall 2024)
+## Current Schedule (Fall 2023)
 
 | Course | Day/Time |
 | :---------------------------------------------|:------------------|
@@ -13,7 +13,7 @@ GradFIRST (GRSC 7001) | F (12:40-1:30) |
 Office Hours (Gilbert 218) | W (10:00-12:00) |
 ---------------------------------------------|------------------|
 
-## Contact Information
+## Contact Details
 
 #### Mailing Address
 Department of Linguistics<br>
