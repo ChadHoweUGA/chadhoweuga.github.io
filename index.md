@@ -27,15 +27,7 @@ Current students are encouraged to consult the [RESOURCES page of my website](re
 * I serve as the [Review Editor](revieweditor.md) for the journal [Studies in Hispanic and Lusophone Linguistics](https://www.degruyter.com/view/journals/shll/shll-overview.xml?language=en&tab_body=editorialContent-75079).
   
 
-## Current Schedule (Fall 2024)
-
-Course | Day/Time |
----------------------------------------------|------------------|
-Text and Corpus Linguistics (LING 4886/6886) | MWF (9:10-10:00) |
-FYOS 1001 | M (11:30-12:20) |
-GradFIRST (GRSC 7001) | F (12:40-1:30) |
-Office Hours (Gilbert 218) | W (10:00-12:00) |
----------------------------------------------|------------------|
+***
 
 {: .box-note}
 **⬇️Latest blog posts⬇️** 
