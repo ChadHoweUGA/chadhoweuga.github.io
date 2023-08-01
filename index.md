@@ -16,7 +16,7 @@ Current students are encouraged to consult the [RESOURCES page of my website](re
 - Shannon Rodriguez, Paula Mellom, **Chad Howe**, Rebecca Hixon, Jodi Weber. (October) “Southern” Latino Identities and Stories: A mixed-methods analysis. [Hispanic Linguistics Symposium 2023](https://hls2023.byu.edu/)
 - **Howe, Chad**, Camila Lívio, and Katie Ireland. *Super* as a crosslinguistic intensifier. [Corpus Linguistics 2023, Lancaster University](https://wp.lancs.ac.uk/cl2023/)
 - Rodríguez, Shannon and **Chad Howe**. Forthcoming. Big data and small dialects: Transitive *andar* in Central American Spanish. In Baird, Brandon, Osmer Balam, and María del Carmen Parafita Couto (eds.). [*Linguistic Advances in Central American Spanish*](https://brill.com/display/title/68340?rskey=uzpd53&result=2). Leiden: Brill.
-- Howe, Chad. Forthcoming. Employing corpora in usage-based linguistics. In Díaz Campos, Manuel and Balasch, Sonia(eds.). [*The Handbook of Usage-Based Linguistics*](https://www.wiley-vch.de/en/?option=com_eshop&view=product&isbn=978-1-119-83982-8#:~:text=The%20Handbook%20of%20Usage%2DBased%20Linguistics%20is%20an%20indispensable%20resource,and%20other%20subfields%20of%20linguistics.). Blackwell.
+- Howe, Chad. Forthcoming. Employing corpora in usage-based linguistics. In Díaz Campos, Manuel and Balasch, Sonia(eds.). [*The Handbook of Usage-Based Linguistics*](https://www.wiley.com/en-us/The+Handbook+of+Usage+Based+Linguistics-p-9781119839828). Blackwell.
 
 ***
 
