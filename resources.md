@@ -111,6 +111,9 @@ There are lots of ways to stay active in the linguistics community at UGA. In Ro
 - <a href="https://lingthusiasm.com/">Lingthusiasm</a>: podcast that's enthusiastic about linguistics by Gretchen McCulloch and Lauren Gawne.
 - <a href="http://www.languageonthemove.com/#">Language on the Move</a>: a peer-reviewed sociolinguistics research site devoted to multilingualism, language learning and intercultural communication in the contexts of globalization and migration
 - <a href="https://citizensociolinguistics.com/">Citizen Sociolinguistics</a>: A great blog by Prof. Betsy Rymes at the University of Pennsylvania
+- [Linguistic Justic Collaborative](https://www.linguisticjusticecollaborative.com/): "The LJC’s mission is to identify, design, and sustain community language and literacies to equip culturally and linguistically diverse youth to participate in their communities." This is a **wonderful** initiative led by [Dr. Leah Panther](https://education.mercer.edu/faculty-and-staff/leah-panther/) related to understand language and its connection to local communities in GA.
+
+### Local opportunities
 - <a href="http://www.athensoconeecasa.org/">Athens-Oconee CASA</a>: Court Appointed Special Advocates
 - [Casa de Amistad](http://athensamistad.com/): Casa de Amistad works with the Latino and Hispanic population in the Northeast Georgia area. They provide social services, referrals, translation, education and advocacy.
 - <a href="https://athensforeveryone.com/">Athens for Everyone</a>
