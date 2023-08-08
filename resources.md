@@ -51,8 +51,8 @@ Table of Contents              |   |
 - <a href="http://lingtools.uoregon.edu/coraal/explorer/">CoRAAL</a>: Corpus of Regional African American Language, developed and hosted by the University Oregon
 - <a href="https://cesa.arizona.edu/links-other-sociolinguistic-corpora">University of Arizona Corpus Resources</a>
 
-[[TOC](#table-of-contents)]
----
+{: .box-note}
+[back to TOC](#table-of-contents)
 
 ## Writing and Research {#writing-research}
 ### LaTeX
