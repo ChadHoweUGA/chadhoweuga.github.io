@@ -55,11 +55,14 @@ Table of Contents              |   |
 ---
 
 ## Writing and Research {#writing-research}
-- <a href="http://www.essex.ac.uk/linguistics/external/clmt/latex4ling/">LaTeX for Linguists</a>
-- <a href="https://rmarkdown.rstudio.com/">RMarkdown</a>: A markup language useful for creating documents and presentations (and other delights)
-- <a href="https://www.linguisticsociety.org/sites/default/files/style-sheet.pdf"><em>Language</em> style sheet</a>
+### LaTeX
+- [Using LaTeX in linguistics](https://www.linguisticsociety.org/content/using-latex-linguistics): A handy guide prepared by the LSA
+- [LaTeX (for Linguists)](https://psumikeputnam.weebly.com/latex-for-linguists.html): A Mike Putnam-created set of materials to learn LaTeX; definitely worth your time
+- [LaTeX for Linguists](https://wstyler.ucsd.edu/latex/): This is just one of **many** resources created by Will Styler (dated but good).
 - <a href="http://www.overleaf.com">Overleaf</a>: A nifty resource for creating LaTeX documents online. Also has some very handy collaboration functions.
 - [Bib Converter](http://glottotopia.org/doc2tex/doc2bib): This is a **very** nifty tool to convert a Unified Style Sheet bibliography to bibtex.
+- <a href="https://rmarkdown.rstudio.com/">RMarkdown</a>: A markup language useful for creating documents and presentations (and other delights)
+- <a href="https://www.linguisticsociety.org/sites/default/files/style-sheet.pdf"><em>Language</em> style sheet</a>
 
 [[TOC](#table-of-contents)]
 ---
