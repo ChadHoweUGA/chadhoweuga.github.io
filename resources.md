@@ -28,11 +28,8 @@ Table of Contents              |   |
 - [Method Bites](https://www.mzes.uni-mannheim.de/socialsciencedatalab/): Blog of the MZES Social Science Data Lab (lots of great tutorials)
 - [Data Visualization: A practical introduction](https://socviz.co/): A great source for using R to make graphs n' such.
 
-[[TOC](#table-of-contents)]
-----
-
 {: .box-note}
-[[TOC](#table-of-contents)] 
+[back to TOC](#table-of-contents) 
 
 ## Corpora and Corpus tools {#corpus} 
 - [Collection of corpus resources available to UGA faculty and students](http://research.franklin.uga.edu/linglab/corpora)
@@ -63,12 +60,17 @@ Table of Contents              |   |
 - [LaTeX (for Linguists)](https://psumikeputnam.weebly.com/latex-for-linguists.html): A Mike Putnam-created set of materials to learn LaTeX; definitely worth your time
 - [LaTeX for Linguists](https://wstyler.ucsd.edu/latex/): This is just one of **many** resources created by Will Styler (dated but good).
 - <a href="http://www.overleaf.com">Overleaf</a>: A nifty resource for creating LaTeX documents online. Also has some very handy collaboration functions.
-- [Bib Converter](http://glottotopia.org/doc2tex/doc2bib): This is a **very** nifty tool to convert a Unified Style Sheet bibliography to bibtex.
+### Markdown/Rmarkdown
 - <a href="https://rmarkdown.rstudio.com/">RMarkdown</a>: A markup language useful for creating documents and presentations (and other delights)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+### Stylesheets and formatting for linguists
 - <a href="https://www.linguisticsociety.org/sites/default/files/style-sheet.pdf"><em>Language</em> style sheet</a>
+- [The Generic Style Rules for Linguistics](https://www.eva.mpg.de/linguistics/past-research-resources/resources/generic-style-rules): Generic style rules endorsed by the Max Planck Institute
+- [Citation Style Language](https://citationstyles.org/): Open source citation tools for researchers
 
-[[TOC](#table-of-contents)]
----
+
+{: .box-note}
+[back to TOC](#table-of-contents) 
 
 ## Runasimimanta {#runasimimanta}
 - <a href="https://web.sas.upenn.edu/quechua/">Quechua at Penn</a>: Quechua and Andean Culture (University of Pennsylvania)
@@ -79,8 +81,8 @@ Table of Contents              |   |
 - <a href="http://www.quechua.org.uk/">Quechua</a>: A somewhat dated but <strong>very </strong>useful collection of resources for folks interested in Quechua/Quichua/Runasimi
 - [Linguistics Summer School Bolivia](https://www.lssbolivia.com/?fbclid=IwAR0RdJpESc70ZuTjig1HtGsB2k9cRdb5lAzF3wzkuBe0nDFbATUjN7oYdCY): This institution offers training to speakers of indigenous languages and applied linguistics students.
 
-[[TOC](#table-of-contents)]
----
+{: .box-note}
+[back to TOC](#table-of-contents) 
 
 ## Digital Humanities {#digital-humanities}
 I'm not particularly qualified to provide a list of useful resources for this topic, but that hasn't stopped me thus far. Again, I'm taking heavily from resources that have been suggested to me by students and colleagues (specifically [Dr. Nora Benedict](https://norabenedict.github.io/index.html))
@@ -95,8 +97,8 @@ I'm not particularly qualified to provide a list of useful resources for this to
 - [Dr. Miriam Posner's Blog](https://miriamposner.com/blog/tutorials-ive-written/): There are a number of **really** nice tutorials on Dr. Posner's website.
 - [Digital Humanities Journals](https://digitalhumanities.berkeley.edu/resources/digital-humanities-journals): This is a list maintained by the DH folks at Berkeley. In addition to the other DH resources, it's a good reference.
 
-[[TOC](#table-of-contents)]
----
+{: .box-note}
+[back to TOC](#table-of-contents) 
 
 ## Stay connected / Get involved {#stay-connected}
 There are lots of ways to stay active in the linguistics community at UGA. In Romance Languages, there are [weekly conversation groups](http://rom.uga.edu/conversation-groups-and-language-tables) for French, Italian, Portuguese, and Spanish (and sometimes Catalan), as well as the [Romance Languages Colloquium](http://rom.uga.edu/events/all). In the [Department of Linguistics](http://www.linguistics.uga.edu/department-calendar), there are regular talks by internal and external speakers and several events hosted by the [Linguistics Society at the University of Georgia (LSUGA)](http://www.linguistics.uga.edu/lsuga), including the [Linguistics Conference at UGA](http://www.linguistics.uga.edu/linguistics-conference), now in its sixth iteration. Finally, if you're interested in joining one of our listservs, please contact me for access to either the **Romance Linguistics Listserv (ROMLING-L)** or the **Latin American Indigenous Languages Listserv (LAIL-L)**. 
@@ -111,5 +113,5 @@ There are lots of ways to stay active in the linguistics community at UGA. In Ro
 - [Casa de Amistad](http://athensamistad.com/): Casa de Amistad works with the Latino and Hispanic population in the Northeast Georgia area. They provide social services, referrals, translation, education and advocacy.
 - <a href="https://athensforeveryone.com/">Athens for Everyone</a>
 
-[[TOC](#table-of-contents)]
-----
+{: .box-note}
+[back to TOC](#table-of-contents) 
