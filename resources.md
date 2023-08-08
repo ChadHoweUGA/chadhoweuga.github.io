@@ -9,10 +9,9 @@ Below is a list a resources that students might find useful for their research (
 
 Table of Contents              |   |
 ---------------------------------------------------|------------------------------------------------|
-[Tools for Data Analysis](#tools)                      | [A Guide to Your Research](#research-guide)    |
-[Academic Requirements](#academic-requirements)    | [Funding Resources](#funding-resources)   |
-[Program Requirements](#academic-requirements)     |[Prospectus Outline](#prospectus-outline)   |
-[You and Your Major Professor](#you-and-your-major-professor) | [Additional Resources](#additional-resources) |
+[Tools for Data Analysis](#tools)                      | [Runasimimanta (Quechua)](#runasimimanta)    |
+[Corpora and Corpus tools](#corpus)   | [Digital Humanities](#digital-humanities)   |
+[Writing and Research](#writing-research)     |[Stay Connected/Get Involved](#stay-connected)   |
 
 ## Tools for Data Analysis {#tools} 
 - [UGA Statistical Consulting Center](http://www.stat.uga.edu/consulting)
@@ -29,10 +28,19 @@ Table of Contents              |   |
 - [Method Bites](https://www.mzes.uni-mannheim.de/socialsciencedatalab/): Blog of the MZES Social Science Data Lab (lots of great tutorials)
 - [Data Visualization: A practical introduction](https://socviz.co/): A great source for using R to make graphs n' such.
 
-[[TOC]{#table-of-contents}]
+[[TOC](#table-of-contents)]
+----
 
-## Corpora and Corpus tools
+## Corpora and Corpus tools {#corpus} 
 - [Collection of corpus resources available to UGA faculty and students](http://research.franklin.uga.edu/linglab/corpora)
+- [SPeech Across Dialects of English (SPADE)](https://spade.glasgow.ac.uk/): This is a very cool project that seeks to develop tools for doing large-scale analysis of speech data.
+- [Linguistic Data Consortium](https://www.ldc.upenn.edu/): A great resource for language corpora; and UGA has an institutional subscription!!
+- [Tools for Corpus Linguistics](https://corpus-analysis.com/): A long list of corpus-related resources that's always being updated
+- [Lancaster Stats Tools online](http://corpora.lancs.ac.uk/stats/index.php): The website provides practical support for the analysis of corpus data using a range of statistical techniques.
+- <a href="https://uclouvain.be/en/research-institutes/ilc/cecl/corpora.html">Center for English Corpus Linguistics (Louvain)</a>: A collection of several useful corpus resources
+- <a href="https://cqpweb.lancs.ac.uk/">Lancaster Corpus Resources</a>
+
+### Spanish and Portuguese
 - [Corpus del Español](http://www.corpusdelespanol.org/): Spanish corpus run out of BYU
 - <a href="http://www.corpusdoportugues.org/">Corpus do Português</a>; Portuguese corpus run out BYU
 - <a href="http://preseea.linguas.net/">PRESEEA</a>: A collection of sociolinguistic data from around the Spanish-speaking world
@@ -40,25 +48,23 @@ Table of Contents              |   |
 - <a href="https://www.webcorpora.org/">COW</a>: High Quality Web Corpora
 - <a href="http://corpora.lancs.ac.uk/lancsbox/">LANCSBox</a>: software package for the analysis of language data and corpora
 - [Corpus of Spanish in Georgia](https://encompass.eku.edu/corpusspanga/): This corpus was compiled by Dr. Philip Limerick and represents members of the Latinx community in the metropolitan Atlanta area, primarily in the city of Roswell, Georgia.
-- [Lancaster Stats Tools online](http://corpora.lancs.ac.uk/stats/index.php): The website provides practical support for the analysis of corpus data using a range of statistical techniques.
-- <a href="https://uclouvain.be/en/research-institutes/ilc/cecl/corpora.html">Center for English Corpus Linguistics (Louvain)</a>: A collection of several useful corpus resources
 - <a href="http://lingtools.uoregon.edu/coraal/explorer/">CoRAAL</a>: Corpus of Regional African American Language, developed and hosted by the University Oregon
-- <a href="https://cqpweb.lancs.ac.uk/">Lancaster Corpus Resources</a>
 - <a href="https://cesa.arizona.edu/links-other-sociolinguistic-corpora">University of Arizona Corpus Resources</a>
-- [SPeech Across Dialects of English (SPADE)](https://spade.glasgow.ac.uk/): This is a very cool project that seeks to develop tools for doing large-scale analysis of speech data.
-- [Linguistic Data Consortium](https://www.ldc.upenn.edu/): A great resource for language corpora; and UGA has an institutional subscription!!
-- [Tools for Corpus Linguistics](https://corpus-analysis.com/): A long list of corpus-related resources that's always being updated
 
+[[TOC](#table-of-contents)]
+---
 
-## Other Tools and Resources
+## Writing and Research {#writing-research}
 - <a href="http://www.essex.ac.uk/linguistics/external/clmt/latex4ling/">LaTeX for Linguists</a>
 - <a href="https://rmarkdown.rstudio.com/">RMarkdown</a>: A markup language useful for creating documents and presentations (and other delights)
 - <a href="https://www.linguisticsociety.org/sites/default/files/style-sheet.pdf"><em>Language</em> style sheet</a>
 - <a href="http://www.overleaf.com">Overleaf</a>: A nifty resource for creating LaTeX documents online. Also has some very handy collaboration functions.
 - [Bib Converter](http://glottotopia.org/doc2tex/doc2bib): This is a **very** nifty tool to convert a Unified Style Sheet bibliography to bibtex.
 
+[[TOC](#table-of-contents)]
+---
 
-## Runasimimanta
+## Runasimimanta {#runasimimanta}
 - <a href="https://web.sas.upenn.edu/quechua/">Quechua at Penn</a>: Quechua and Andean Culture (University of Pennsylvania)
 - <a href="https://as.nyu.edu/content/nyu-as/as/research-centers/clacs/quechua.html">Quechua @ NYU</a>: Information about Quechua offerings at NYU
 - <a href="https://kichwahatari.org/">Kichwa Hatari</a>: a weekly radio program, the first in the indigenous Kichwa language in the U.S, aimed at reaching the Quechua/Kichwa population in the United States, particularly in New York
@@ -67,7 +73,10 @@ Table of Contents              |   |
 - <a href="http://www.quechua.org.uk/">Quechua</a>: A somewhat dated but <strong>very </strong>useful collection of resources for folks interested in Quechua/Quichua/Runasimi
 - [Linguistics Summer School Bolivia](https://www.lssbolivia.com/?fbclid=IwAR0RdJpESc70ZuTjig1HtGsB2k9cRdb5lAzF3wzkuBe0nDFbATUjN7oYdCY): This institution offers training to speakers of indigenous languages and applied linguistics students.
 
-## Digital Humanities
+[[TOC](#table-of-contents)]
+---
+
+## Digital Humanities {#digital-humanities}
 I'm not particularly qualified to provide a list of useful resources for this topic, but that hasn't stopped me thus far. Again, I'm taking heavily from resources that have been suggested to me by students and colleagues (specifically [Dr. Nora Benedict](https://norabenedict.github.io/index.html))
 
 - [UGA DigiLab](https://digi.uga.edu/digilab/#1544564021635-6ae22572-cb2d): In addition to being a cool physical space, the DigiLab, directed by Dr. Emily McGinn, offers **lots** of resources and events for faculty and students.
@@ -80,8 +89,10 @@ I'm not particularly qualified to provide a list of useful resources for this to
 - [Dr. Miriam Posner's Blog](https://miriamposner.com/blog/tutorials-ive-written/): There are a number of **really** nice tutorials on Dr. Posner's website.
 - [Digital Humanities Journals](https://digitalhumanities.berkeley.edu/resources/digital-humanities-journals): This is a list maintained by the DH folks at Berkeley. In addition to the other DH resources, it's a good reference.
 
+[[TOC](#table-of-contents)]
+---
 
-## Stay connected / Get involved
+## Stay connected / Get involved {#stay-connected}
 There are lots of ways to stay active in the linguistics community at UGA. In Romance Languages, there are [weekly conversation groups](http://rom.uga.edu/conversation-groups-and-language-tables) for French, Italian, Portuguese, and Spanish (and sometimes Catalan), as well as the [Romance Languages Colloquium](http://rom.uga.edu/events/all). In the [Department of Linguistics](http://www.linguistics.uga.edu/department-calendar), there are regular talks by internal and external speakers and several events hosted by the [Linguistics Society at the University of Georgia (LSUGA)](http://www.linguistics.uga.edu/lsuga), including the [Linguistics Conference at UGA](http://www.linguistics.uga.edu/linguistics-conference), now in its sixth iteration. Finally, if you're interested in joining one of our listservs, please contact me for access to either the **Romance Linguistics Listserv (ROMLING-L)** or the **Latin American Indigenous Languages Listserv (LAIL-L)**. 
 
 - [The Center for Latino Achievement and Success in Education](https://coe.uga.edu/directory/latino-achievement): **CLASE** is an "educational research and development center" housed in the Mary Frances Early College of Education at UGA. They have tons of cool initiatives and projects. Also, our very own [Shannon Rodríguez](https://www.linguistics.uga.edu/directory/people/shannon-rodriguez) is a Graduate Research Assistant with CLASE.
@@ -94,4 +105,5 @@ There are lots of ways to stay active in the linguistics community at UGA. In Ro
 - [Casa de Amistad](http://athensamistad.com/): Casa de Amistad works with the Latino and Hispanic population in the Northeast Georgia area. They provide social services, referrals, translation, education and advocacy.
 - <a href="https://athensforeveryone.com/">Athens for Everyone</a>
 
+[[TOC](#table-of-contents)]
 ----
