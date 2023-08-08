@@ -39,6 +39,8 @@ Table of Contents              |   |
 - [Lancaster Stats Tools online](http://corpora.lancs.ac.uk/stats/index.php): The website provides practical support for the analysis of corpus data using a range of statistical techniques.
 - <a href="https://uclouvain.be/en/research-institutes/ilc/cecl/corpora.html">Center for English Corpus Linguistics (Louvain)</a>: A collection of several useful corpus resources
 - <a href="https://cqpweb.lancs.ac.uk/">Lancaster Corpus Resources</a>
+- <a href="http://corpora.lancs.ac.uk/lancsbox/">LANCSBox</a>: software package for the analysis of language data and corpora
+- <a href="http://lingtools.uoregon.edu/coraal/explorer/">CoRAAL</a>: Corpus of Regional African American Language, developed and hosted by the University Oregon
 
 ### Spanish and Portuguese
 - [Corpus del Español](http://www.corpusdelespanol.org/): Spanish corpus run out of BYU
@@ -46,9 +48,7 @@ Table of Contents              |   |
 - <a href="http://preseea.linguas.net/">PRESEEA</a>: A collection of sociolinguistic data from around the Spanish-speaking world
 - <a href="http://www.rae.es/recursos/banco-de-datos">Real Academia Española</a>: different synchronic and diachronic corpora
 - <a href="https://www.webcorpora.org/">COW</a>: High Quality Web Corpora
-- <a href="http://corpora.lancs.ac.uk/lancsbox/">LANCSBox</a>: software package for the analysis of language data and corpora
 - [Corpus of Spanish in Georgia](https://encompass.eku.edu/corpusspanga/): This corpus was compiled by Dr. Philip Limerick and represents members of the Latinx community in the metropolitan Atlanta area, primarily in the city of Roswell, Georgia.
-- <a href="http://lingtools.uoregon.edu/coraal/explorer/">CoRAAL</a>: Corpus of Regional African American Language, developed and hosted by the University Oregon
 - <a href="https://cesa.arizona.edu/links-other-sociolinguistic-corpora">University of Arizona Corpus Resources</a>
 
 {: .box-note}
