@@ -55,14 +55,17 @@ Table of Contents              |   |
 [back to TOC](#table-of-contents)
 
 ## Writing and Research {#writing-research}
+
 ### LaTeX
 - [Using LaTeX in linguistics](https://www.linguisticsociety.org/content/using-latex-linguistics): A handy guide prepared by the LSA
 - [LaTeX (for Linguists)](https://psumikeputnam.weebly.com/latex-for-linguists.html): A Mike Putnam-created set of materials to learn LaTeX; definitely worth your time
 - [LaTeX for Linguists](https://wstyler.ucsd.edu/latex/): This is just one of **many** resources created by Will Styler (dated but good).
 - <a href="http://www.overleaf.com">Overleaf</a>: A nifty resource for creating LaTeX documents online. Also has some very handy collaboration functions.
+
 ### Markdown/Rmarkdown
 - <a href="https://rmarkdown.rstudio.com/">RMarkdown</a>: A markup language useful for creating documents and presentations (and other delights)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ### Stylesheets and formatting for linguists
 - <a href="https://www.linguisticsociety.org/sites/default/files/style-sheet.pdf"><em>Language</em> style sheet</a>
 - [The Generic Style Rules for Linguistics](https://www.eva.mpg.de/linguistics/past-research-resources/resources/generic-style-rules): Generic style rules endorsed by the Max Planck Institute
