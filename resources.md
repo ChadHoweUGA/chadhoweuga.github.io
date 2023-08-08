@@ -5,6 +5,15 @@ title: "Resources"
 
 Below is a list a resources that students might find useful for their research (and teaching). I've pillaged heavily (and, in some instances, copied) [Dr. Peggy Renwick's thorough list of resources](http://faculty.franklin.uga.edu/mrenwick/phonetics-phonology-resources). Suggestions welcome!
 
+# Table of contents {#table-of-contents} 
+
+Table of Contents              |   |
+---------------------------------------------------|------------------------------------------------|
+[Expectations](#expectations)                      | [A Guide to Your Research](#research-guide)    |
+[Academic Requirements](#academic-requirements)    | [Funding Resources](#funding-resources)   |
+[Program Requirements](#academic-requirements)     |[Prospectus Outline](#prospectus-outline)   |
+[You and Your Major Professor](#you-and-your-major-professor) | [Additional Resources](#additional-resources) |
+
 ## Tools for data analysis
 - [UGA Statistical Consulting Center](http://www.stat.uga.edu/consulting)
 - [The R Project](http://www.r-project.org/)
