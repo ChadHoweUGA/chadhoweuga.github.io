@@ -87,7 +87,7 @@ Table of Contents              |   |
 ## Digital Humanities {#digital-humanities}
 I'm not particularly qualified to provide a list of useful resources for this topic, but that hasn't stopped me thus far. Again, I'm taking heavily from resources that have been suggested to me by students and colleagues (specifically [Dr. Nora Benedict](https://norabenedict.github.io/index.html))
 
-- [UGA DigiLab](https://digi.uga.edu/digilab/#1544564021635-6ae22572-cb2d): In addition to being a cool physical space, the DigiLab, directed by Dr. Emily McGinn, offers **lots** of resources and events for faculty and students.
+- [UGA DigiLab](https://digi.uga.edu/digilab/#1544564021635-6ae22572-cb2d): In addition to being a cool physical space, the DigiLab, directed by Dr. Katie Ireland, offers **lots** of resources and events for faculty and students.
 - [Digital Pedagogy in the Humanities](https://digitalpedagogy.hcommons.org/?utm_campaign=digestapr20non&utm_medium=email&utm_source=mlaoutreach): This is a useful collection of materials and tools curated by the MLA.
 - [*Debates in the Digital Humanities*](https://dhdebates.gc.cuny.edu/): This a nice resource for up-to-date research.
 - [RAWGraphs](https://rawgraphs.io/): I've not used this one, but Dr. Benedict endorses it.
