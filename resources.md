@@ -31,6 +31,9 @@ Table of Contents              |   |
 [[TOC](#table-of-contents)]
 ----
 
+{: .box-note}
+[[TOC](#table-of-contents)] 
+
 ## Corpora and Corpus tools {#corpus} 
 - [Collection of corpus resources available to UGA faculty and students](http://research.franklin.uga.edu/linglab/corpora)
 - [SPeech Across Dialects of English (SPADE)](https://spade.glasgow.ac.uk/): This is a very cool project that seeks to develop tools for doing large-scale analysis of speech data.
