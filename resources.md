@@ -9,12 +9,12 @@ Below is a list a resources that students might find useful for their research (
 
 Table of Contents              |   |
 ---------------------------------------------------|------------------------------------------------|
-[Expectations](#expectations)                      | [A Guide to Your Research](#research-guide)    |
+[Tools for Data Analysis](#tools)                      | [A Guide to Your Research](#research-guide)    |
 [Academic Requirements](#academic-requirements)    | [Funding Resources](#funding-resources)   |
 [Program Requirements](#academic-requirements)     |[Prospectus Outline](#prospectus-outline)   |
 [You and Your Major Professor](#you-and-your-major-professor) | [Additional Resources](#additional-resources) |
 
-## Tools for data analysis
+## Tools for Data Analysis {#tools} 
 - [UGA Statistical Consulting Center](http://www.stat.uga.edu/consulting)
 - [The R Project](http://www.r-project.org/)
 - [RStudio](https://www.rstudio.com/): If you use R, you should use RStudio
@@ -28,6 +28,8 @@ Table of Contents              |   |
 - [Data Collection in Sociolinguistics: Methods and Applications](https://sociolinguisticdatacollection.com/): This is a very nice volume edited by Christine Mallison, Becky Childs, and Gerard Van Herk. The website has lots of useful resources.
 - [Method Bites](https://www.mzes.uni-mannheim.de/socialsciencedatalab/): Blog of the MZES Social Science Data Lab (lots of great tutorials)
 - [Data Visualization: A practical introduction](https://socviz.co/): A great source for using R to make graphs n' such.
+
+[[TOC]{#table-of-contents}]
 
 ## Corpora and Corpus tools
 - [Collection of corpus resources available to UGA faculty and students](http://research.franklin.uga.edu/linglab/corpora)
