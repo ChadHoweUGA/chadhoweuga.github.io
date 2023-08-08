@@ -90,12 +90,14 @@ I'm not particularly qualified to provide a list of useful resources for this to
 - [UGA DigiLab](https://digi.uga.edu/digilab/#1544564021635-6ae22572-cb2d): In addition to being a cool physical space, the DigiLab, directed by Dr. Katie Ireland, offers **lots** of resources and events for faculty and students.
 - [Digital Pedagogy in the Humanities](https://digitalpedagogy.hcommons.org/?utm_campaign=digestapr20non&utm_medium=email&utm_source=mlaoutreach): This is a useful collection of materials and tools curated by the MLA.
 - [*Debates in the Digital Humanities*](https://dhdebates.gc.cuny.edu/): This a nice resource for up-to-date research.
+- [Dr. Miriam Posner's Blog](https://miriamposner.com/blog/tutorials-ive-written/): There are a number of **really** nice tutorials on Dr. Posner's website.
+- [Digital Humanities Journals](https://digitalhumanities.berkeley.edu/resources/digital-humanities-journals): This is a list maintained by the DH folks at Berkeley. In addition to the other DH resources, it's a good reference.
+
+### Nifty Tools
 - [RAWGraphs](https://rawgraphs.io/): I've not used this one, but Dr. Benedict endorses it.
 - [Palladio](https://hdlab.stanford.edu/palladio/): This is a handy visualization tool. It's particularly useful for historical data.
 - [OpenRefine](https://openrefine.org/): Very useful for managing messy data. Not terribly different (in spirit) from TidyVerse.
 - [Voyant Tools](https://voyant-tools.org/): Useful for basic text analysis.
-- [Dr. Miriam Posner's Blog](https://miriamposner.com/blog/tutorials-ive-written/): There are a number of **really** nice tutorials on Dr. Posner's website.
-- [Digital Humanities Journals](https://digitalhumanities.berkeley.edu/resources/digital-humanities-journals): This is a list maintained by the DH folks at Berkeley. In addition to the other DH resources, it's a good reference.
 
 {: .box-note}
 [back to TOC](#table-of-contents) 
