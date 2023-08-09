@@ -27,7 +27,6 @@ If you’re interested in working with me, please take a look at [my current (an
 - [Kasi Ives](https://ung.edu/modern-languages/faculty-staff-bio/kasi-ives.php) (PhD, Romance Languages), Areas of Research: Language use in digital media, computational methods
 - [Mario Juárez Sánchez](https://rom.uga.edu/directory/people/mario-juarez-sanchez) (PhD, Romance Languages), Areas of Research: Language variation, Spanish in digital media
 - [Rachel Kim](http://www.linguistics.uga.edu/directory/people/dot-eum-kim) (PhD, Linguistics), Areas of Research: Sociolinguistics, perception of US dialects by L2 speakers of English
-- [Camila Lívio](https://rom.uga.edu/directory/people/camila-livio-emidio) (PhD, Romance Languages), Areas of Research: Sociolinguistics, language variation, grammaticalization in Portuguese
 - [Bailey Pieplow](https://www.linguistics.uga.edu/directory/people/bailey-e-pieplow) (MA, Linguistics), Areas of Research: Sociolinguistics, language variation in Georgia
 - [Eliot Westdorp](https://rom.uga.edu/directory/people/eliot-westdorp) (PhD, Romance Languages), Areas of Research: Sociolinguistics, language variation in Peninsular Spanish, Galician/Spanish contact
 
@@ -36,6 +35,7 @@ If you’re interested in working with me, please take a look at [my current (an
 ## Former Advisees {#former-advisees}
 To find a copy of a thesis or dissertation, go to the [UGA repository](https://www.libs.uga.edu/etd) and search by the author's name.
 
+- **Camila Lívio** (PhD, Romance Languages), Dissertation Title: *Digital Approaches to Intensification in Portuguese & Spanish* (2023)
 - **Javier Cabezas Zapata** (PhD, Romance Languages), Dissertation Title: [*¿Se puede medir la gramaticalización? El caso de las anclas temporales del español*](https://esploro.libs.uga.edu/esploro/outputs/9949559226702959) (2023)
 - **Kathryn Galyon** (MA, Romance Languages), Thesis Title: [*Somos quariwarimis: La intersección del género y la indigenedad en el lenguaje de hablantes bilingües de quechua y español*](https://esploro.libs.uga.edu/esploro/outputs/9949558824402959) (2023)
 - **Michael Gray** (MA, Linguistics), Thesis Title: [*Emojis and the expression of Queer Identity: A Sentiment Analysis Approach*](https://esploro.libs.uga.edu/esploro/outputs/9949559124702959) (2023)
