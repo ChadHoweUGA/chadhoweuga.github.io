@@ -14,7 +14,7 @@ Current students are encouraged to consult the [RESOURCES page of my website](re
 ## 📢 <span style="color:red">RECENT/UPCOMING</span> 📢
 - Sarah Hubbel, Bethany Bateman McDonald, and **Chad, Howe**. (October). Placeholder na in Quechua/Spanish bilingual speech. [Placeholders in East and West](https://www.romanistik.de/aktuelles/7309).
 - Lívio, Camila and Howe, Chad. 2024. Text Mining Approaches to Language Use in Social Media:
-The Case of Portuguese *Bué*. *Languages*. [DOI](https://www.mdpi.com/2226-471X/9/3/82)
+The Case of Portuguese *Bué*. *Languages*. [DOI](https://www.mdpi.com/2226-471X/9/3/82) **Note** This paper is part of a Special Issue titled ["Investigating Language Variation and Change in Portuguese"](https://www.mdpi.com/journal/languages/special_issues/HAXETJT8N2), edited by Dr. Patrícia Amaral (Indiana University). Thanks to Patrícia for her efforts in making this collection happen.
 
 ***
 
