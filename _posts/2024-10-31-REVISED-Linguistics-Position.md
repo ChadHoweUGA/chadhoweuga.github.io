@@ -1,6 +1,6 @@
 ---
 layout: post
-title: REVISED Assistant Professor of Computational Linguistics
+title: REVISED Assistant Professor of Linguistics
 thumbnail-img: /assets/img/pexels-3861959_0.png
 tags: [linguistics,UGA,jobs]
 ---
