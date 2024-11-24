@@ -78,7 +78,8 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
   calendly: chowe-218
-  mastodon: mastodon.social/@chowe
+  bluesky: lchowe.bsky.social
+#  mastodon: mastodon.social/@chowe
   ORCID: 0000-0002-3044-1443
 #  google-scholar: https://scholar.google.com/citations?hl=en&user=XOSu0dEAAAAJ
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
