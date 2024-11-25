@@ -13,7 +13,7 @@ Current students are encouraged to consult the [RESOURCES page of my website](re
 
 ## 📢 <span style="color:red">RECENT/UPCOMING</span> 📢
 - Fafulas, S., Howe, C., Orozco, R., Cipria, A., O’Rourke, E., Moreno, N., & Van Hoose, M. J. (2024). The SEC Spanish Consortium: Foundations for Linguistic Gratuity and Language Documentation Among Latinx Populations in New Destination Communities of the U.S. South. *Languages*, 9(11), 354. [DOI](https://doi.org/10.3390/languages9110354)
-  + **Note** This paper is part of a Special Issue titled ["Spanish in the US: A Sociolinguistic Approach"](https://www.mdpi.com/journal/languages/special_issues/C435DT7340)], edited by Dr. Alberto Pastor (Southern Methodist University). Gracias a Alberto por su ayuda y su paciencia.
+  + **Note** This paper is part of a Special Issue titled ["Spanish in the US: A Sociolinguistic Approach"](https://www.mdpi.com/journal/languages/special_issues/C435DT7340), edited by Dr. Alberto Pastor (Southern Methodist University). Gracias a Alberto por su ayuda y su paciencia.
 - Sarah Hubbel, Bethany Bateman McDonald, and **Chad, Howe**. October. Placeholder *na* in Quechua/Spanish bilingual speech. [Placeholders in East and West](https://www.romanistik.de/aktuelles/7309).
   + We presented a version of this research at the [2024 Hispanic Linguistics Symposium](https://www.unomaha.edu/foreign-languages/hispanic-linguistics-symposium/index.php)
 - Lívio, C., & Howe, C. (2024). Text Mining Approaches to Language Use in Social Media: The Case of Portuguese Bué. Languages, 9(3), 82. [DOI](https://www.mdpi.com/2226-471X/9/3/82)
