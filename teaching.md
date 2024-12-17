@@ -4,10 +4,8 @@ title: Teaching and Advising
 ---
 
 ## 📢 <span style="color:red">STUDENT NEWS</span> 📢
-- Congratulations to [**Mario Juárez Suárez**](https://rom.uga.edu/directory/people/mario-juarez-sanchez) on completing his first Qualifying Paper (QP1). His paper, entitled “Voy a estudiar español, en plan cómo se habla”: Análisis de en plan en PRESEEA”, leverages corpus-based methods to analyze the distribution and meaning of the discourse structure en plan. The committee, which includes Dr. Sarah Blackwell and Dr. Timothy Gupton, was impressed with his use of naturalistic data and has encouraged him to expand on this work. ¡Enhorabuena, Mario!
-- **Dr. Andrew Bray** has accepted the position of Visiting Assistant Professor in the [Department of Linguistics at the University of Rochester](http://www.sas.rochester.edu/lin/). Congratulations, Andrew!
-- **Camila Lívio** successfully defended her dissertation on May 17, 2023. Her dissertation, entitled "Digital Approaches to Intensification in Portuguese & Spanish”, explores the use and perception of words like *muy*, *muito*, *bem*, and *super* (i.e. intensifiers) in data extracted from Amazon reviews. Camila has now started her new position as [Scholarly Communications Librarian at the University of Georgia Library](https://www.libs.uga.edu/staff/livio-emidio-camila). Parabéns, Camila!
-- ROML Grad and all around brilliant fellow, **Dr. Lamar Graham**, was recently promoted to Associate Professor (with tenure) in the [Department of Romance Studies at the University of North Carolina Chapel Hill](https://sites.google.com/site/lamaragrahamphd). ¡Enhorabuena, Lamar!
+- **Dr. Sarah Hubbel** accepted the position of Assistant Professor of Spanish in the [Department of Modern Languages at the University of North Georgia]([http://www.sas.rochester.edu/lin/](https://ung.edu/modern-languages/faculty-staff-bio/sarah-hubbel.php)). Congratulations, Sarah!
+- **Eliot Westdorp** was selected to participate in the [UGA Graduate Student Leadership Development Program (GradLEAD)](https://grad.uga.edu/gradlead-new-graduate-student-leadership-development-program/). "GradLEAD is a new program hosted in partnership by the Graduate School and the department of Engagement, Leadership and Service for all enrolled graduate students no matter the program, year, or expected graduation date to engage in continued leadership development." Congratulations to Eliot on this important recognition! 
 
 ***
 
