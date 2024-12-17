@@ -4,7 +4,7 @@ title: Teaching and Advising
 ---
 
 ## 📢 <span style="color:red">STUDENT NEWS</span> 📢
-- **Dr. Sarah Hubbel** accepted the position of Assistant Professor of Spanish in the [Department of Modern Languages at the University of North Georgia]([http://www.sas.rochester.edu/lin/](https://ung.edu/modern-languages/faculty-staff-bio/sarah-hubbel.php)). Congratulations, Sarah!
+- **Dr. Sarah Hubbel** accepted the position of Assistant Professor of Spanish in the [Department of Modern Languages at the University of North Georgia](https://ung.edu/modern-languages/faculty-staff-bio/sarah-hubbel.php). Congratulations, Sarah!
 - **Eliot Westdorp** was selected to participate in the [UGA Graduate Student Leadership Development Program (GradLEAD)](https://grad.uga.edu/gradlead-new-graduate-student-leadership-development-program/). "GradLEAD is a new program hosted in partnership by the Graduate School and the department of Engagement, Leadership and Service for all enrolled graduate students no matter the program, year, or expected graduation date to engage in continued leadership development." Congratulations to Eliot on this important recognition! 
 
 ***
