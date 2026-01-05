@@ -15,7 +15,7 @@ website:
 format:
   html:
     theme:
-      - morph
+      - cosmo
       - brand
     css: styles.css
 
