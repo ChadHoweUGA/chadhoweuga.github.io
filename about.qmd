@@ -4,12 +4,10 @@ image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: github
-      text: Github
-      href: https://github.com/ChadHoweUGA
-    - icon: bsky
-      text: Blue Sky
-      href: https://bsky.app/profile/lchowe.bsky.social
+      - icon: envelope
+        href: mailto:lewischowe@gmail.com
+      - icon: github
+        href: https://github.com/ChadHoweUGA
 
 ---
 

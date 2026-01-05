@@ -1,5 +1,6 @@
 ---
-title: "Blog"
+title: "Howe on Why"
+subtitle: "A personal blog"
 listing:
   contents: posts
   sort: "date desc"

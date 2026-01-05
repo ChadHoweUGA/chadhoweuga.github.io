@@ -1,11 +1,13 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2026-01-02"
-categories: [news]
+author: "Chad Howe"
+date: "2026-01-05"
+categories:
+    - updates
+    - information
 ---
 
-This is the first post in a Quarto blog. Welcome!
+In an attempt to but up-to-date, I am (re)starting my blogging efforts. Stay tuned!
 
 ![](thumbnail.jpg)
 
