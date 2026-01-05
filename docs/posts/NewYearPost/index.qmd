@@ -1,0 +1,12 @@
+---
+title: "New Year...another blog attempt"
+description: "Shaking off the dust"
+author: "Chad Howe"
+date: "1/05/2026"
+categories:
+  - news
+---
+
+It is a truth universally acknowledged that starting a new year requires trying to start new habits or, in this case, restarting an old habit. With any luck and a little more planning, this will become a more regular part of my routine. I don't expect there to be too many ground-breaking insights in this blog, but perhaps I'll find a few worthwhile inquiries to post that will find a reader or two. If not, a writing excercise is helpful, I guess, even if no one's reading.
+
+![](thumbnail.jpg)

@@ -1,0 +1,15 @@
+---
+title: "Welcome To My Blog"
+author: "Chad Howe"
+date: "2026-01-05"
+categories:
+    - updates
+    - information
+draft: true
+---
+
+In an attempt to but up-to-date, I am (re)starting my blogging efforts. Stay tuned!
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.

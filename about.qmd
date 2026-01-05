@@ -11,4 +11,6 @@ about:
 
 ---
 
-This is a personal blog maintained by Chad Howe. The views and opions expressed do not represent those of the University of Georgia.
+This is a personal blog maintained by **Chad Howe**.
+
+The views and opinions expressed do not represent those of the University of Georgia.
