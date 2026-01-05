@@ -5,6 +5,7 @@ date: "2026-01-05"
 categories:
     - updates
     - information
+draft: true
 ---
 
 In an attempt to but up-to-date, I am (re)starting my blogging efforts. Stay tuned!
