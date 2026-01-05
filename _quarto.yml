@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "HoweBlog"
+  title: "Chad Howe's Blog"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/ChadHoweUGA
+      - icon: bluesky
+        href: https://bsky.app/profile/lchowe.bsky.social
 format:
   html:
     theme:
