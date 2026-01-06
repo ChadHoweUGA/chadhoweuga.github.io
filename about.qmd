@@ -11,6 +11,9 @@ about:
 
 ---
 
-This is a personal blog maintained by **Chad Howe**.
+This is a personal blog maintained by **Chad Howe**. Information regarding my work at the University of Georgia can be found on [my website](https://chadhowe.uga.edu/).
 
-The views and opinions expressed do not represent those of the University of Georgia.
+The views and opinions expressed here do not represent those of the University of Georgia.
+
+
+

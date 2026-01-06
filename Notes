@@ -1,0 +1,12 @@
+git remote add origin "https://github.com/ChadHoweUGA/chadhoweuga.github.io.git"
+git branch -M main
+git add --all
+git commit -m "initial commit"
+git push -u origin main
+
+NB: Use this before final git command. Check token
+chowe$ git remote set-url origin https://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@github.com/ChadHoweUGA/chadhoweuga.github.io.git
+
+future posts: 
+1.  Drop kit
+2.  Black Crowes and Hard to Handle
